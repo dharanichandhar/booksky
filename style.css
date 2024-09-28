@@ -8,7 +8,7 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 .navbar{
-    background-color: #1196e2;
+    background-color: #FD6569;
     padding:10px;
 
 }
@@ -27,7 +27,7 @@ body{
     display: inline-block;
 }
 .book-container h2{
-   color:  #1196e2;
+   color: #FD6569;
    margin-top: 5px;
    margin-bottom: 5px;
    vertical-align: top;
@@ -36,12 +36,12 @@ body{
 .book-container button{
     padding:5px;
     border-radius: 8px;
-    background-color: #1196e2;
+    background-color:#FD6569;
     margin-top: 8px;
     border: none;
 }
 .add-button{
-    background-color:#1196e2;
+    background-color: #FD6569;
     color: black;
     border-radius: 100%;
     padding-top: 20px;
@@ -66,7 +66,7 @@ body{
     display:none;
 }
 .popup-box{
-    background-color: #1196e2;
+    background-color: #FD6569;
     width:40%;
     padding: 40px;
     border-radius: 10px;
